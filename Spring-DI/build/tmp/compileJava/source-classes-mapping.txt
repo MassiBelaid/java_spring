@@ -1,0 +1,6 @@
+fds/m2/spring/App.java
+ fds.m2.spring.App
+fds/m2/spring/Helloer.java
+ fds.m2.spring.Helloer
+fds/m2/spring/Printer.java
+ fds.m2.spring.Printer
