@@ -6,7 +6,7 @@ fr/massi/m2/MainWebAppInitializer.java
  fr.massi.m2.MainWebAppInitializer
 fr/massi/m2/AppConfig.java
  fr.massi.m2.AppConfig
-fr/massi/m2/Bean/Registration.java
- fr.massi.m2.Bean.Registration
 fr/massi/m2/Controller/UserController.java
  fr.massi.m2.Controller.UserController
+fr/massi/m2/Bean/Registration.java
+ fr.massi.m2.Bean.Registration
